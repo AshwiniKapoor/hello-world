@@ -1,3 +1,3 @@
 # hello-world
 Just another repository..
-Ashwini Kapoor
+Ashwini Kapoor and Geetansh Kapoor
